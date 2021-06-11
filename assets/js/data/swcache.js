@@ -45,7 +45,7 @@ const resource = [
 const allowedDomains = [
   
 
-  '',
+  'pandorax41.github.io',
 
   'fonts.gstatic.com',
   'fonts.googleapis.com',
