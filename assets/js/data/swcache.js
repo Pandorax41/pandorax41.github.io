@@ -1,43 +1,43 @@
 const resource = [
 
   /* --- CSS --- */
-  '/pandorax41.github.io/assets/css/style.css',
+  '/pandorax41/assets/css/style.css',
 
   /* --- JavaScripts --- */
   
-  '/pandorax41.github.io/assets/js/dist/home.min.js',
-  '/pandorax41.github.io/assets/js/dist/page.min.js',
-  '/pandorax41.github.io/assets/js/dist/post.min.js',
-  '/pandorax41.github.io/assets/js/dist/categories.min.js',
-  '/pandorax41.github.io/assets/js/data/search.json',
-  '/pandorax41.github.io/app.js',
-  '/pandorax41.github.io/sw.js',
+  '/pandorax41/assets/js/dist/home.min.js',
+  '/pandorax41/assets/js/dist/page.min.js',
+  '/pandorax41/assets/js/dist/post.min.js',
+  '/pandorax41/assets/js/dist/categories.min.js',
+  '/pandorax41/assets/js/data/search.json',
+  '/pandorax41/app.js',
+  '/pandorax41/sw.js',
 
   /* --- HTML --- */
-  '/pandorax41.github.io/index.html',
-  '/pandorax41.github.io/404.html',
+  '/pandorax41/index.html',
+  '/pandorax41/404.html',
   
-    '/pandorax41.github.io/categories/',
+    '/pandorax41/categories/',
   
-    '/pandorax41.github.io/tags/',
+    '/pandorax41/tags/',
   
-    '/pandorax41.github.io/archives/',
+    '/pandorax41/archives/',
   
-    '/pandorax41.github.io/about/',
+    '/pandorax41/about/',
   
 
   /* --- Favicons --- */
   
 
-  '/pandorax41.github.io/assets/img/favicons/android-chrome-192x192.png',
-  '/pandorax41.github.io/assets/img/favicons/android-chrome-512x512.png',
-  '/pandorax41.github.io/assets/img/favicons/apple-touch-icon.png',
-  '/pandorax41.github.io/assets/img/favicons/favicon-16x16.png',
-  '/pandorax41.github.io/assets/img/favicons/favicon-32x32.png',
-  '/pandorax41.github.io/assets/img/favicons/favicon.ico',
-  '/pandorax41.github.io/assets/img/favicons/mstile-150x150.png',
-  '/pandorax41.github.io/assets/img/favicons/site.webmanifest',
-  '/pandorax41.github.io/assets/img/favicons/browserconfig.xml'
+  '/pandorax41/assets/img/favicons/android-chrome-192x192.png',
+  '/pandorax41/assets/img/favicons/android-chrome-512x512.png',
+  '/pandorax41/assets/img/favicons/apple-touch-icon.png',
+  '/pandorax41/assets/img/favicons/favicon-16x16.png',
+  '/pandorax41/assets/img/favicons/favicon-32x32.png',
+  '/pandorax41/assets/img/favicons/favicon.ico',
+  '/pandorax41/assets/img/favicons/mstile-150x150.png',
+  '/pandorax41/assets/img/favicons/site.webmanifest',
+  '/pandorax41/assets/img/favicons/browserconfig.xml'
 
 ];
 

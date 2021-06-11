@@ -1,6 +1,6 @@
-self.importScripts('/pandorax41.github.io/assets/js/data/swcache.js');
+self.importScripts('/pandorax41/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20210610.2149';
+const cacheName = 'chirpy-20210610.2211';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
