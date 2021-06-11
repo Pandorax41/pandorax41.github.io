@@ -1,43 +1,43 @@
 const resource = [
 
   /* --- CSS --- */
-  '/pandorax41/assets/css/style.css',
+  '/assets/css/style.css',
 
   /* --- JavaScripts --- */
   
-  '/pandorax41/assets/js/dist/home.min.js',
-  '/pandorax41/assets/js/dist/page.min.js',
-  '/pandorax41/assets/js/dist/post.min.js',
-  '/pandorax41/assets/js/dist/categories.min.js',
-  '/pandorax41/assets/js/data/search.json',
-  '/pandorax41/app.js',
-  '/pandorax41/sw.js',
+  '/assets/js/dist/home.min.js',
+  '/assets/js/dist/page.min.js',
+  '/assets/js/dist/post.min.js',
+  '/assets/js/dist/categories.min.js',
+  '/assets/js/data/search.json',
+  '/app.js',
+  '/sw.js',
 
   /* --- HTML --- */
-  '/pandorax41/index.html',
-  '/pandorax41/404.html',
+  '/index.html',
+  '/404.html',
   
-    '/pandorax41/categories/',
+    '/categories/',
   
-    '/pandorax41/tags/',
+    '/tags/',
   
-    '/pandorax41/archives/',
+    '/archives/',
   
-    '/pandorax41/about/',
+    '/about/',
   
 
   /* --- Favicons --- */
   
 
-  '/pandorax41/assets/img/favicons/android-chrome-192x192.png',
-  '/pandorax41/assets/img/favicons/android-chrome-512x512.png',
-  '/pandorax41/assets/img/favicons/apple-touch-icon.png',
-  '/pandorax41/assets/img/favicons/favicon-16x16.png',
-  '/pandorax41/assets/img/favicons/favicon-32x32.png',
-  '/pandorax41/assets/img/favicons/favicon.ico',
-  '/pandorax41/assets/img/favicons/mstile-150x150.png',
-  '/pandorax41/assets/img/favicons/site.webmanifest',
-  '/pandorax41/assets/img/favicons/browserconfig.xml'
+  '/assets/img/favicons/android-chrome-192x192.png',
+  '/assets/img/favicons/android-chrome-512x512.png',
+  '/assets/img/favicons/apple-touch-icon.png',
+  '/assets/img/favicons/favicon-16x16.png',
+  '/assets/img/favicons/favicon-32x32.png',
+  '/assets/img/favicons/favicon.ico',
+  '/assets/img/favicons/mstile-150x150.png',
+  '/assets/img/favicons/site.webmanifest',
+  '/assets/img/favicons/browserconfig.xml'
 
 ];
 
